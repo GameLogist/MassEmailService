@@ -1,0 +1,21 @@
+{
+	"name": "nodeprojects",
+	"version": "1.0.0",
+	"description": "",
+	"main": "test.js",
+	"engines": {
+		"node": "10.20.1",
+		"npm": "6.14.4"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"devDependencies": {
+		"prettier": "2.0.5"
+	}
+}
